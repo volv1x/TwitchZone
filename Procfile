@@ -1,1 +1,1 @@
-worker: node bot.js TwitchZoneBOT
+worker: node bot.js TwitchZone BOT
